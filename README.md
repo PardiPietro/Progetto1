@@ -1,1 +1,1 @@
-Semplici sstep di prova
+Semplici step di prova
